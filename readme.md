@@ -4,9 +4,9 @@
   
   pip install --upgrade imutils
   <h2>One of these should works:</h2>
-  conda install -c conda-forge opencv=4.1.0
-  conda install -c conda-forge imutils
-  conda install -c menpo opencv3
+  conda install -c conda-forge opencv=4.1.0 <br>
+  conda install -c conda-forge imutils <br>
+  conda install -c menpo opencv3 <br>
 
   pip install opencv-python <br>
   pip install opencv-contrib-python or pip install opencv-contrib-python --user
