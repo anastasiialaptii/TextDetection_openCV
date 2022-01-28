@@ -3,7 +3,7 @@
 <h3>Install necessary modules:</h3>
   
   pip install --upgrade imutils
-  <h2>One of these should works:</h2>
+  <h2>One of these should work:</h2>
   conda install -c conda-forge opencv=4.1.0 <br>
   conda install -c conda-forge imutils <br>
   conda install -c menpo opencv3 <br>
